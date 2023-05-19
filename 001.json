@@ -1,10 +1,10 @@
-﻿
+﻿https://github.com/V-hzt123/-hzt1236666/blob/main/001.json
 {
-"spider":"clan://TVBox/0723.jar",
+"spider":"https://raw.githubusercontent.com/V-hzt123/-hzt1236666/main/723.jar",
 
 
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L2xpdmUudHh0"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1YtaHp0MTIzLy1oenQxMjM2NjY2L2Jsb2IvbWFpbi9saXZlLnR4dA"]}]}],
 
 
 "sites":[

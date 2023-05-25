@@ -8,9 +8,9 @@
 
 
 "sites":[
-{"key":"csp_LiteApple","name":"🍎客服微信hzt1236666","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_LiteApple","name":"🍎客服微信hzt1236666",},
 {"key":'csp_Tkys',name:'📡天空影视',type:3,api:'csp_Tkys',searchable:1,quickSearch:1,filterable:1},
-{"key":'csp_Tkys',name:'🥇天空(SP)',type:3,api:'csp_Tkys',searchable:1,quickSearch:1,filterable:1},
+
 
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_Bdys01","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},

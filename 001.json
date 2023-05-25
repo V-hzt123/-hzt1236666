@@ -7,7 +7,7 @@
 
 
 "sites":[
-{"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Kuaikan","name": " 🎴客服微信hzt1236666","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":'csp_Tkys',name:'📡天空影视',type:3,api:'csp_Tkys',searchable:1,quickSearch:1,filterable:1},
 
 
